@@ -17,6 +17,7 @@
 		<item value="org.eclipse.jgit.ssh.apache:6.1.0.202203080745-r"/>
 		<item value="org.eclipse.jgit:6.1.0.202203080745-r"/>
 		<item value="org.eclipse.jst.common.fproj.enablement.jdt:3.24.0.v202111201707"/>
+		<item value="org.eclipse.jst.ws.cxf.feature:1.1.900.v202107101953"/>
 		<item value="org.eclipse.justj.openjdk.hotspot.jre.full:17.0.2.v20220201-1208"/>
 		<item value="org.eclipse.m2e.feature:1.20.1.20220227-1319"/>
 		<item value="org.eclipse.m2e.logback.feature:1.17.2.20211002-1029"/>
@@ -39,4 +40,10 @@
 		<item value="org.sonatype.m2e.buildhelper.feature:0.15.0.201207090124"/>
 		<item value="org.sonatype.m2e.mavenarchiver.feature:0.17.5.202002191804"/>
 	</list>
+	<section name="SmartImportWizard">
+		<item key="SmartImportRootWizardPage.STORE_HIDE_ALREADY_OPEN" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_CLOSE_IMPORTED" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
+		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
+	</section>
 </section>
